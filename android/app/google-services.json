@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "709112192978",
+    "project_id": "n3final",
+    "storage_bucket": "n3final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709112192978:android:576d081d2a468736e2720b",
+        "android_client_info": {
+          "package_name": "com.example.n3tassi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709112192978-5nau13u4vn03qcdsm4nje2h1aecqnftn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.n3tassi",
+            "certificate_hash": "2cfcb31ab217d6e559f6ce4e2c3944cea8fa88ec"
+          }
+        },
+        {
+          "client_id": "709112192978-ltr8f79b20vaai34k3de8ep4ii0kjtv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdpO6mZlL76IO36AQOGX6-bLKsRDWfTBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709112192978-ltr8f79b20vaai34k3de8ep4ii0kjtv6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "709112192978-d5jv775qo4tujm4kqr9mjq2sjrvjclu0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.n3tassi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
