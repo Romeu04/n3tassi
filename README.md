@@ -1,16 +1,21 @@
-# n3tassi
+# N3 Autenticação
 
-A new Flutter project.
+Um aplicativo Flutter simples que utiliza o Firebase para implementar autenticação com e-mail/senha e autenticação via Google.
 
-## Getting Started
+## 🛠️ Tecnologias Utilizadas
 
-This project is a starting point for a Flutter application.
+- **Flutter**: Framework para desenvolvimento multiplataforma.
+- **Firebase Authentication**: Gerenciamento de autenticação segura.
+- **Google Sign-In**: Autenticação rápida via conta Google.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Login com e-mail e senha.
+- Registro de novos usuários com validação.
+- Autenticação via conta Google.
+- Logout seguro.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📋 Pré-requisitos
+
+- Flutter SDK instalado ([Guia de instalação do Flutter](https://docs.flutter.dev/get-started/install)).
+- Firebase configurado no projeto Flutter.

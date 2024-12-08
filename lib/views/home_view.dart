@@ -20,7 +20,25 @@ class HomeView extends StatelessWidget {
         ],
       ),
       body: Center(
-        child: Text('Bem-vindo!'),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Text(
+              'Bem-vindo!',
+              style: TextStyle(
+                fontSize: 24,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            SizedBox(height: 20),
+            Text(
+              'Esperamos que você tenha uma ótima experiência!',
+              style: TextStyle(
+                fontSize: 18,
+              ),
+            ),
+          ],
+        ),
       ),
     );
   }
